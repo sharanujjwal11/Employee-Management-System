@@ -1,10 +1,9 @@
 # Employee Management System
 
-A comprehensive desktop application using Java Swing, SWT, and MySQL to manage employee information efficiently. The system includes functionalities to add, update, view, and delete employee records, providing a user-friendly interface for streamlined HR operations and maintaining a centralized database for data consistency.<br> 
+A comprehensive desktop application using Java Swing, AWT to manage employee information efficiently. The system includes functionalities to add, update, view, and delete employee records, providing a user-friendly interface for streamlined HR operations and maintaining a centralized database for data consistency.<br> 
 
 Technologies Used:
-  1. Java Swing, AWT
-  2. MySQL
+  1. Java Swing, AWT<br>
 Created in IntelliJ IDEA Community Edition IDE
 
 Screenshots:
