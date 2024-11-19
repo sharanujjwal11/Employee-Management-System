@@ -4,6 +4,7 @@ A comprehensive desktop application using Java Swing, AWT to manage employee inf
 
 Technologies Used:
   1. Java Swing, AWT<br>
+
 Created in IntelliJ IDEA Community Edition IDE
 
 Screenshots:
